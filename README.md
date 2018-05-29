@@ -1,3 +1,3 @@
 # Ethernaut
-My solutions of Ethernaut
+My solutions for Ethernaut
 https://ethernaut.zeppelin.solutions/
